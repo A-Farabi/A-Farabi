@@ -1,8 +1,13 @@
-### Hi there 👋
-I’m [Al Farabi] – A passionate web developer.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **React, JavaScript, and MongoDB**.
-- 📫 How to reach me: [farabisyl2017@gmail.com](mailto:farabisyl2017@gmail.com).
+<p align="left">
+  ### Hi there 👋  
+  I’m [Al Farabi] – A passionate web developer.  
+  - 👯 I’m looking to collaborate on **open-source projects**.  
+  - 💬 Ask me about **React, JavaScript, and MongoDB**.  
+  - 📫 How to reach me: [farabisyl2017@gmail.com](mailto:farabisyl2017@gmail.com).
+</p>
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&background=FFFFFF00&center=true&vCenter=true&width=500&height=50&lines=Hi+there+%F0%9F%91%8B+I%27m+A-Farabi!;A+Full-Stack+Web+Developer.;Passionate+about+Coding+and+Learning!" alt="Typing SVG" />
+</p>
 
 
 ### Languages and Tools:
@@ -32,20 +37,3 @@ I’m [Al Farabi] – A passionate web developer.
 ### Activity Graph:-
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-Farabi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
-![A-Farabi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=A-Farabi&theme=github-dark)
-
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=black&labelColor=white&color=61DAFB&logoWidth=25)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black&labelColor=white&color=F7DF1E&logoWidth=25)
-
-
-![A-Farabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Farabi&show_icons=true&theme=radical)
-
-
-<img src="https://user-images.githubusercontent.com/313363/114239177-cb3cf800-999b-11eb-9ee8-df7e920d4b5b.gif" alt="Animated Divider" />
-
