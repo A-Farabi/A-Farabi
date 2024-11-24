@@ -32,3 +32,20 @@ I’m [Al Farabi] – A passionate web developer.
 ### Activity Graph:-
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-Farabi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+![A-Farabi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=A-Farabi&theme=github-dark)
+
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=black&labelColor=white&color=61DAFB&logoWidth=25)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black&labelColor=white&color=F7DF1E&logoWidth=25)
+
+
+![A-Farabi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Farabi&show_icons=true&theme=radical)
+
+
+<img src="https://user-images.githubusercontent.com/313363/114239177-cb3cf800-999b-11eb-9ee8-df7e920d4b5b.gif" alt="Animated Divider" />
+
