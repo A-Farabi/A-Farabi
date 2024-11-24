@@ -1,6 +1,5 @@
 ### Hi there 👋
-I’m [Your Name] – A passionate web developer.
-- 🌱 I’m currently learning **MongoDb**, **Express.js**, **Node.js**.
+I’m [Al Farabi] – A passionate web developer.
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **React, JavaScript, and MongoDB**.
 - 📫 How to reach me: [farabisyl2017@gmail.com](mailto:farabisyl2017@gmail.com).
