@@ -1,14 +1,11 @@
-<p align="left">
-  ### Hi there 👋  
+### Hi there 👋  
   I’m [Al Farabi] – A passionate web developer.
   - 👯 I’m looking to collaborate on **open-source projects**.
   - 💬 Ask me about **React, JavaScript, and MongoDB**.
   - 📫 How to reach me: [farabisyl2017@gmail.com](mailto:farabisyl2017@gmail.com).
-</p>
 
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/313363/114239177-cb3cf800-999b-11eb-9ee8-df7e920d4b5b.gif" alt="Animated Divider" />
-</p>
+
+<img src="https://user-images.githubusercontent.com/313363/114239177-cb3cf800-999b-11eb-9ee8-df7e920d4b5b.gif" alt="Animated Divider" />
 
 
 ### Languages and Tools:
